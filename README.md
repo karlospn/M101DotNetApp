@@ -2,4 +2,4 @@
 
 Project from Mongo University course M101N.
 
-MVC 5 Project using Mongo Driver.
+It's a MVC5 project using the C# Mongo Driver to communicate with the Mongo BBDD.
